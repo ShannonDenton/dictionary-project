@@ -13,7 +13,11 @@ function App() {
           <small>
             {" "}
             Coded by{" "}
-            <a href="https://shannon-denton.com/" target="_blank">
+            <a
+              href="https://shannon-denton.com/"
+              target="_blank"
+              rel="noreferrer"
+            >
               {" "}
               Shannon Denton
             </a>{" "}
