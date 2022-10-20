@@ -1,4 +1,4 @@
-import react from "react";
+// import react from "react";
 import Meaning from "./Meaning";
 import Phonetic from "./Phonetic";
 
