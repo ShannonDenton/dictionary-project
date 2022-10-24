@@ -9,7 +9,9 @@ export default function Phonetic(props) {
         {" "}
         Listen
       </a>
+      <span className="text">
       {props.phonetic.text}
+      </span>
     </div>
   );
 }
