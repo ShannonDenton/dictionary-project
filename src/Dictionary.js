@@ -57,7 +57,7 @@ let headers = {Authorization : `Bearer ${pexelsApiKey}`};
             <input type="search" onChange={handleKeywordChange} defaultValue={props.defaultKeyword}/>
           </form>
           <div className="hint">
-            Suggested words: cake, pink, chocolate, pasta, paris
+            Suggested words: pink, chocolate, affogato, paris
           </div>
           <Results results={results} />
           <Photos photos={photos} />
